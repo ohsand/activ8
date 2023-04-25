@@ -34,8 +34,8 @@ h1 {
   font-size: 65px;
   line-height: 72px;
   font-weight: 500;
-  position: relative;
   margin-bottom: 20px;
+  max-width: 500px;
 
   font-size: 72px;
   background: rgb(187,207,59);
@@ -494,8 +494,9 @@ footer ul li i:hover {
     margin-top: 128px;
   }
   .intro h1 {
-    font-size: 45px;
+    font-size: 58px;
     line-height: 48px;
+    max-width: 440px;
   }
 
   .product .content {
@@ -548,7 +549,7 @@ footer ul li i:hover {
   }
 
   h1 {
-    font-size: 48px;
+    font-size: 55px;
     line-height: 53px;
   }
 
