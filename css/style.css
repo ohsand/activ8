@@ -229,10 +229,12 @@ img {
 .navbar .navbar-nav li a {
   color: #2a2a2a;
   font-weight: 500;
+  width: fit-content;
 }
 .navbar .navbar-nav li a:hover {
-  color: #ff6a6a;
+  color: #E71925;
 }
+
 .navbar .button-navbar {
   width: 20%;
   float: right;
@@ -251,7 +253,7 @@ img {
   intro
 ---------------------------------*/
 .intro {
-  margin-top: 92px;
+  margin-top: 162px;
   padding-top: 50px;
 }
 
